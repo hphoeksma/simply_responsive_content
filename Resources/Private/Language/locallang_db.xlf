@@ -15,6 +15,9 @@
 			<trans-unit id="responsive_touch">
 				<source>Touch Device Settings</source>
 			</trans-unit>
+			<trans-unit id="responsive_orientation">
+				<source>Orientation Settings</source>
+			</trans-unit>
 			<trans-unit id="default">
 				<source>no special configuration</source>
 			</trans-unit>
@@ -27,11 +30,23 @@
 			<trans-unit id="show_for_small">
 				<source>up to 768px (small)</source>
 			</trans-unit>
+			<trans-unit id="show_for_medium_down">
+				<source>from 768px down (medium down)</source>
+			</trans-unit>
 			<trans-unit id="show_for_medium">
 				<source>between 768px and 1280px (medium)</source>
 			</trans-unit>
+			<trans-unit id="show_for_medium_up">
+				<source>from 768px up (medium up)</source>
+			</trans-unit>
+			<trans-unit id="show_for_large_down">
+				<source>from 1280px down (large down)</source>
+			</trans-unit>
 			<trans-unit id="show_for_large">
 				<source>between 1280px and 1440px (large)</source>
+			</trans-unit>
+			<trans-unit id="show_for_large_up">
+				<source>from 1280px up (large up)</source>
 			</trans-unit>
 			<trans-unit id="show_for_xlarge">
 				<source>above 1440px only (xlarge)</source>
@@ -39,14 +54,38 @@
 			<trans-unit id="hide_for_small">
 				<source>up to 768px (small)</source>
 			</trans-unit>
+			<trans-unit id="hide_for_medium_down">
+				<source>from 768px down (medium down)</source>
+			</trans-unit>
 			<trans-unit id="hide_for_medium">
 				<source>between 768px and 1280px (medium)</source>
+			</trans-unit>
+			<trans-unit id="hide_for_medium_up">
+				<source>from 768px up (medium up)</source>
+			</trans-unit>
+			<trans-unit id="hide_for_large_down">
+				<source>from 1280px down (large down)</source>
 			</trans-unit>
 			<trans-unit id="hide_for_large">
 				<source>between 1280px and 1440px (large)</source>
 			</trans-unit>
+			<trans-unit id="hide_for_large_up">
+				<source>from 1280px up (large up)</source>
+			</trans-unit>
 			<trans-unit id="hide_for_xlarge">
 				<source>above 1440px only (xlarge)</source>
+			</trans-unit>
+			<trans-unit id="show_for_landscape">
+				<source>Visible for landscape orientation</source>
+			</trans-unit>
+			<trans-unit id="hide_for_landscape">
+				<source>Hidden for landscape orientation</source>
+			</trans-unit>
+			<trans-unit id="show_for_portrait">
+				<source>Visible for portrait orientation</source>
+			</trans-unit>
+			<trans-unit id="hide_for_portrait">
+				<source>Hidden for portrait orientation</source>
 			</trans-unit>
 		</body>
 	</file>

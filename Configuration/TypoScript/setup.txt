@@ -10,4 +10,6 @@ tt_content.stdWrap.innerWrap.cObject.default.20 {
 	50.field = responsive_show
 	60 < .40
 	60.field = responsive_hide
+	70 < .40
+	70.field = responsive_orientation
 }
