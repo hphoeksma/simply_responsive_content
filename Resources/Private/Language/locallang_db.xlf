@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2013-05-15T16:26:55Z" product-name="simply_responsive_content">
+		<header/>
+		<body>
+			<trans-unit id="responsive">
+				<source>Responsive Settings</source>
+			</trans-unit>
+			<trans-unit id="responsive_show">
+				<source>Show this content element on screens</source>
+			</trans-unit>
+			<trans-unit id="responsive_hide">
+				<source>Hide this content element on screens</source>
+			</trans-unit>
+			<trans-unit id="responsive_touch">
+				<source>Touch Device Settings</source>
+			</trans-unit>
+			<trans-unit id="default">
+				<source>no special configuration</source>
+			</trans-unit>
+			<trans-unit id="show_for_touch">
+				<source>show on touch devices</source>
+			</trans-unit>
+			<trans-unit id="hide_for_touch">
+				<source>hide on touch devices</source>
+			</trans-unit>
+			<trans-unit id="show_for_small">
+				<source>up to 768px (small)</source>
+			</trans-unit>
+			<trans-unit id="show_for_medium">
+				<source>between 768px and 1280px (medium)</source>
+			</trans-unit>
+			<trans-unit id="show_for_large">
+				<source>between 1280px and 1440px (large)</source>
+			</trans-unit>
+			<trans-unit id="show_for_xlarge">
+				<source>above 1440px only (xlarge)</source>
+			</trans-unit>
+			<trans-unit id="hide_for_small">
+				<source>up to 768px (small)</source>
+			</trans-unit>
+			<trans-unit id="hide_for_medium">
+				<source>between 768px and 1280px (medium)</source>
+			</trans-unit>
+			<trans-unit id="hide_for_large">
+				<source>between 1280px and 1440px (large)</source>
+			</trans-unit>
+			<trans-unit id="hide_for_xlarge">
+				<source>above 1440px only (xlarge)</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

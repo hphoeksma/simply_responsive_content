@@ -1,0 +1,13 @@
+	## Extend the classes with the selected classes
+tt_content.stdWrap.innerWrap.cObject.default.20 {
+	40 = TEXT
+	40 {
+		field = responsive_touch
+		required = 1
+		noTrimWrap =  || |
+	}
+	50 < .40
+	50.field = responsive_show
+	60 < .40
+	60.field = responsive_hide
+}
