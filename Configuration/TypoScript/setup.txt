@@ -3,13 +3,22 @@ tt_content.stdWrap.innerWrap.cObject.default.20 {
 	40 = TEXT
 	40 {
 		field = responsive_touch
-		required = 1
+		if.isTrue.field = responsive_touch
 		noTrimWrap =  || |
 	}
 	50 < .40
-	50.field = responsive_show
+	50 {
+		field = responsive_show
+		if.isTrue.field = responsive_show
+	}
 	60 < .40
-	60.field = responsive_hide
+	60 {
+		field = responsive_hide
+		if.isTrue.field = responsive_hide
+	}
 	70 < .40
-	70.field = responsive_orientation
+	70 {
+		field = responsive_orientation
+		if.isTrue.field = responsive_orientation
+	}
 }

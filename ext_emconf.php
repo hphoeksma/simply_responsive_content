@@ -12,7 +12,7 @@
 
 $EM_CONF[$_EXTKEY] = array(
 	'title' => 'Simply Responsive Content',
-	'description' => 'Adds checkboxes on a tt_content element for using it with Zurb Foundation.',
+	'description' => 'Fine grained responsive settings for tt_content elements. To be used with ZURB Foundation.',
 	'category' => 'fe',
 	'author' => 'Henjo Hoeksma',
 	'author_email' => 'hphoeksma@stylence.nl',
@@ -27,7 +27,7 @@ $EM_CONF[$_EXTKEY] = array(
 	'modify_tables' => '',
 	'clearCacheOnLoad' => 0,
 	'lockType' => '',
-	'version' => '1.0.0',
+	'version' => '1.0.1',
 	'constraints' => array(
 		'depends' => array(
 			'extbase' => '6.0-6.1.99',
