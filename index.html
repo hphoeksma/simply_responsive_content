@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <meta charset='utf-8' />
+    <meta http-equiv="X-UA-Compatible" content="chrome=1" />
+    <meta name="description" content="Simply Responsive Content : Add ZURB Foundation's visibility classes to tt_content elements." />
+
+    <link rel="stylesheet" type="text/css" media="screen" href="stylesheets/stylesheet.css">
+
+    <title>Simply Responsive Content</title>
+  </head>
+
+  <body>
+
+    <!-- HEADER -->
+    <div id="header_wrap" class="outer">
+        <header class="inner">
+          <a id="forkme_banner" href="https://github.com/hphoeksma/simply_responsive_content">View on GitHub</a>
+
+          <h1 id="project_title">Simply Responsive Content</h1>
+          <h2 id="project_tagline">Add ZURB Foundation's visibility classes to tt_content elements.</h2>
+
+            <section id="downloads">
+              <a class="zip_download_link" href="https://github.com/hphoeksma/simply_responsive_content/zipball/master">Download this project as a .zip file</a>
+              <a class="tar_download_link" href="https://github.com/hphoeksma/simply_responsive_content/tarball/master">Download this project as a tar.gz file</a>
+            </section>
+        </header>
+    </div>
+
+    <!-- MAIN CONTENT -->
+    <div id="main_content_wrap" class="outer">
+      <section id="main_content" class="inner">
+        <h1>Simply Responsive Content</h1>
+
+<p>Simply Responsive Content is a small <a href="http://www.typo3.org">TYPO3</a> extension providing a 'Responsive Settings' tab on all tt_content elements.</p>
+
+<p>Upon selecting one or more of the responsive visibility settings the respective classes will be added to the normal classes on a content element.</p>
+
+<p>This extension is intended to be used with ZURB's Foundation framework.</p>
+
+<h2>What it <em>doesn't</em> do...</h2>
+
+<ol>
+<li>it doesn't create your website for you</li>
+<li>it doesn't clear you from the duty of mastering TypoScript</li>
+<li>it doesn't install ZURB Foundation for you (you should have made your own templates and include Foundation on your own!)</li>
+</ol><h2>What it <em>does</em> do...</h2>
+
+<ol>
+<li>Provides a tab on all content elements where editors can select the different visibility classes for that element. On rendering the selected classes will then be added to the default class wrapping for that element. That's all. Nothing more. Nothing less.</li>
+</ol><h2>How to use...</h2>
+
+<ol>
+<li>Install the extension like any other TYPO3 extension.</li>
+<li>Include the static templates.</li>
+<li>Et voila: you'll see the responsive settings tab there, working and all.</li>
+</ol><h2>Running into issues?</h2>
+
+<p>Please check first if nothing is actually overriding the <code>tt_content.stdWrap.innerWrap.cObject.default.20</code> section in your TypoScript.</p>
+
+<p>The classes are added where the default csc classes are also loaded. If you have changed this, you can modify the TypoScript to fit your needs.</p>
+
+<h2>Really running into issues?</h2>
+
+<p>Either fix it and do a pull request on Github or create an issue there... </p>
+      </section>
+    </div>
+
+    <!-- FOOTER  -->
+    <div id="footer_wrap" class="outer">
+      <footer class="inner">
+        <p class="copyright">Simply Responsive Content maintained by <a href="https://github.com/hphoeksma">hphoeksma</a></p>
+        <p>Published with <a href="http://pages.github.com">GitHub Pages</a></p>
+      </footer>
+    </div>
+
+    
+
+  </body>
+</html>
