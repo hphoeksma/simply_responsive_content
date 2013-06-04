@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2013-05-15T16:26:55Z" product-name="simply_responsive_content">
+		<header/>
+		<body>
+			<trans-unit id="responsive" approved="yes">
+				<source>Responsive Settings</source> <target state="translated">Responsive Instellingen</target></trans-unit>
+			<trans-unit id="responsive_show" approved="yes">
+				<source>Show this content element on screens</source>
+			<target state="translated">Toon dit content element op schermen</target></trans-unit>
+			<trans-unit id="responsive_hide" approved="yes">
+				<source>Hide this content element on screens</source>
+			<target state="translated">Verberg dit content element op schermen</target></trans-unit>
+			<trans-unit id="responsive_touch" approved="yes">
+				<source>Touch Device Settings</source>
+			<target state="translated">Instellingen voor toestellen met touch bediening</target></trans-unit>
+			<trans-unit id="responsive_orientation" approved="yes">
+				<source>Orientation Settings</source>
+			<target state="translated">Orientatie instellingen</target></trans-unit>
+			<trans-unit id="default" approved="yes">
+				<source>no special configuration</source> <target state="translated">geen specifieke configuratie</target></trans-unit>
+			<trans-unit id="show_for_touch" approved="yes">
+				<source>show on touch devices</source> <target state="translated">toon op toestellen met touch bediening</target></trans-unit>
+			<trans-unit id="hide_for_touch" approved="yes">
+				<source>hide on touch devices</source>
+			<target state="translated">verberg op toestellen met touch bediening</target></trans-unit>
+			<trans-unit id="show_for_small" approved="yes">
+				<source>up to 768px (small)</source>
+			<target state="translated">tot 768px (klein)</target></trans-unit>
+			<trans-unit id="show_for_medium_down" approved="yes">
+				<source>from 768px down (medium down)</source>
+			<target state="translated">vanaf 768px en kleiner (medium en kleiner)</target></trans-unit>
+			<trans-unit id="show_for_medium" approved="yes">
+				<source>between 768px and 1280px (medium)</source>
+			<target state="translated">tussen 768px en 1280px (medium)</target></trans-unit>
+			<trans-unit id="show_for_medium_up" approved="yes">
+				<source>from 768px up (medium up)</source>
+			<target state="translated">vanaf 768px en groter (medium en groter)</target></trans-unit>
+			<trans-unit id="show_for_large_down" approved="yes">
+				<source>from 1280px down (large down)</source>
+			<target state="translated">vanaf 1280px en kleiner (groot en kleiner)</target></trans-unit>
+			<trans-unit id="show_for_large" approved="yes">
+				<source>between 1280px and 1440px (large)</source>
+			<target state="translated">tussen 1280px en 1440px (groot)</target></trans-unit>
+			<trans-unit id="show_for_large_up" approved="yes">
+				<source>from 1280px up (large up)</source>
+			<target state="translated">vanaf 1280px en groter (groot en groter)</target></trans-unit>
+			<trans-unit id="show_for_xlarge" approved="yes">
+				<source>above 1440px only (xlarge)</source>
+			<target state="translated">alleen boven 1440px (extra groot)</target></trans-unit>
+			<trans-unit id="hide_for_small" approved="yes">
+				<source>up to 768px (small)</source>
+			<target state="translated">tot 768px (klein)</target></trans-unit>
+			<trans-unit id="hide_for_medium_down" approved="yes">
+				<source>from 768px down (medium down)</source>
+			<target state="translated">vanaf 768px en kleiner (medium en kleiner)</target></trans-unit>
+			<trans-unit id="hide_for_medium" approved="yes">
+				<source>between 768px and 1280px (medium)</source>
+			<target state="translated">tussen 768px en 1280px (medium)</target></trans-unit>
+			<trans-unit id="hide_for_medium_up" approved="yes">
+				<source>from 768px up (medium up)</source>
+			<target state="translated">vanaf 768px en groter (medium en groter)</target></trans-unit>
+			<trans-unit id="hide_for_large_down" approved="yes">
+				<source>from 1280px down (large down)</source>
+			<target state="translated">vanaf 1280px en kleiner (groot en kleiner)</target></trans-unit>
+			<trans-unit id="hide_for_large" approved="yes">
+				<source>between 1280px and 1440px (large)</source>
+			<target state="translated">tussen 1280px en 144px (groot)</target></trans-unit>
+			<trans-unit id="hide_for_large_up" approved="yes">
+				<source>from 1280px up (large up)</source>
+			<target state="translated">vanaf 1280px en groter (groot en groter)</target></trans-unit>
+			<trans-unit id="hide_for_xlarge" approved="yes">
+				<source>above 1440px only (xlarge)</source>
+			<target state="translated">allen boven 1440px (extra groot)</target></trans-unit>
+			<trans-unit id="show_for_landscape" approved="yes">
+				<source>visible for landscape orientation</source>
+			<target state="translated">zichtbaar voor landschap oriëntatie</target></trans-unit>
+			<trans-unit id="hide_for_landscape" approved="yes">
+				<source>hidden for landscape orientation</source>
+			<target state="translated">verborgen voor landschap oriëntatie</target></trans-unit>
+			<trans-unit id="show_for_portrait" approved="yes">
+				<source>visible for portrait orientation</source>
+			<target state="translated">zichtbaar voor portret oriëntatie</target></trans-unit>
+			<trans-unit id="hide_for_portrait" approved="yes">
+				<source>hidden for portrait orientation</source>
+			<target state="translated">verborgen voor portret oriëntatie</target></trans-unit>
+		</body>
+	</file>
+</xliff>

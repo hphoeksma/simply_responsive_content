@@ -76,16 +76,16 @@
 				<source>above 1440px only (xlarge)</source>
 			</trans-unit>
 			<trans-unit id="show_for_landscape">
-				<source>Visible for landscape orientation</source>
+				<source>visible for landscape orientation</source>
 			</trans-unit>
 			<trans-unit id="hide_for_landscape">
-				<source>Hidden for landscape orientation</source>
+				<source>hidden for landscape orientation</source>
 			</trans-unit>
 			<trans-unit id="show_for_portrait">
-				<source>Visible for portrait orientation</source>
+				<source>visible for portrait orientation</source>
 			</trans-unit>
 			<trans-unit id="hide_for_portrait">
-				<source>Hidden for portrait orientation</source>
+				<source>hidden for portrait orientation</source>
 			</trans-unit>
 		</body>
 	</file>
