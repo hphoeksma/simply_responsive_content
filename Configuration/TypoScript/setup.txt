@@ -1,23 +1,23 @@
 	## Extend the classes with the selected classes
 tt_content.stdWrap.innerWrap.cObject.default.20 {
-	40 = TEXT
-	40 {
+	300 = TEXT
+	300 {
 		field = responsive_touch
 		if.isTrue.field = responsive_touch
-		noTrimWrap =  || |
+		noTrimWrap =  | ||
 	}
-	50 < .40
-	50 {
+	310 < .300
+	310 {
 		field = responsive_show
 		if.isTrue.field = responsive_show
 	}
-	60 < .40
-	60 {
+	320 < .300
+	320 {
 		field = responsive_hide
 		if.isTrue.field = responsive_hide
 	}
-	70 < .40
-	70 {
+	330 < .300
+	330 {
 		field = responsive_orientation
 		if.isTrue.field = responsive_orientation
 	}
